@@ -16,7 +16,7 @@
     <licenseUrl>https://github.com/toitlang/toit/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <docsUrl>https://docs.toit.io/language</docsUrl>
-    <bugTrackerUrl>https://github.com/toitlang/toit/blob/master/LICENSE</bugTrackerUrl>
+    <bugTrackerUrl>https://github.com/toitlang/toit/issues</bugTrackerUrl>
     <tags>toit programming language</tags>
   </metadata>
   <files>
