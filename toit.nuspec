@@ -6,7 +6,7 @@
     <title>Toit</title>
     <authors>Toitware Aps</authors>
     <description>
-      The [Toit](https://blog.toit.io/) language is the foundation for the Toit platform that brings robust serviceability to your ESP32-based devices.
+      The [Toit](https://toit.io/company/about) language is the foundation for the Toit platform that brings robust serviceability to your ESP32-based devices.
     </description>
     <summary>Program your microcontrollers in a fast and robust high-level language.</summary>
     <projectUrl>https://toitlang.org/</projectUrl>
