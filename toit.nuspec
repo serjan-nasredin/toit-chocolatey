@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>toit</id>
+    <version>0.15.0</version>
+    <title>Toit</title>
+    <authors>Toitware Aps</authors>
+    <description>
+      The [Toit](https://blog.toit.io/) language is the foundation for the Toit platform that brings robust serviceability to your ESP32-based devices.
+    </description>
+    <summary>Program your microcontrollers in a fast and robust high-level language.</summary>
+    <projectUrl>https://toitlang.org/</projectUrl>
+    <projectSourceUrl>https://github.com/toitlang/toit</projectSourceUrl>
+    <projectSourceUrl>https://github.com/snxx-lppxx/toit-chocolatey</projectSourceUrl>
+    <iconUrl>https://cdn.worldvectorlogo.com/logos/toit.svg</iconUrl>
+    <licenseUrl>https://github.com/toitlang/toit/blob/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <docsUrl>https://docs.toit.io/language</docsUrl>
+    <bugTrackerUrl>https://github.com/toitlang/toit/blob/master/LICENSE</bugTrackerUrl>
+    <tags>toit programming language</tags>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools"/>
+  </files>
+</package>
